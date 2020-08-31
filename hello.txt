@@ -1,2 +1,4 @@
 hello
 parent update
+child update 冲突
+
